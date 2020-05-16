@@ -1,0 +1,3 @@
+rootProject.name='RxSimpleSocket'
+include ':app'
+include ':rxsimplesocket'
